@@ -1,23 +1,21 @@
-## Haorui Jiang
+## 姜颢睿
 
 [![GitHub Badge](https://img.shields.io/github/followers/Haorui-Jiang?style=social)](https://github.com/Haorui-Jiang?tab=followers)
 [![WeChat Badge](https://img.shields.io/badge/My-WeChat-green)](https://mp.weixin.qq.com/s/t9nIn9JnbdCof_nTumpy_g)
 [![Blog Badge](https://img.shields.io/badge/My-Blog-critical)](https://www.cnblogs.com/qsgeo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Haorui-Jiang.Haorui-Jiang)
 
-English [简体中文](README_zh-CN.md)
+[English](README.md) 简体中文
 
-Welcome to my GitHub!
+姜颢睿，地理学专业在读研究生，本科专业为地理信息科学。
 
-I'm a current master's student in Geography, with an undergraduate major in Geographic Information Science.
+目前撰写的博客及公开文本内容包括但不限于地理数据获取与处理、地图制图、空间分析、代码编写等方面，未来还可能涉及到地理学其他各个方向的内容。
 
-Currently, my blogs or public articles include, but are not limited to, geographic data acquisition and processing, map mapping, spatial analysis, and code writing, and may in the future cover various other directions in geography.
-
-My articles are mainly kept in [WeChat Official Accounts](https://mp.weixin.qq.com/s/t9nIn9JnbdCof_nTumpy_g) and [blog](https://www.cnblogs.com/qsgeo).
+个人推文主要存储于[微信公众号](https://mp.weixin.qq.com/s/t9nIn9JnbdCof_nTumpy_g)及[博客园](https://www.cnblogs.com/qsgeo)中。
 
 ---
 
-## Open-source Projects
+## 开源项目
 
 - **python:** [geoca](https://haorui-jiang.github.io/geoca/)
 
