@@ -14,4 +14,4 @@ Welcome to my GitHub! I'm a current master's student in Geography, with an under
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haorui-Jiang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haorui-Jiang&show_icons=true)
